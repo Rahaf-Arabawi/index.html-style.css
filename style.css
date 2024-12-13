@@ -1,0 +1,244 @@
+/* taske1 */
+.brown{
+    color:darkorchid;
+}
+.red{
+   color:red;
+}
+.model{
+    color: blue;
+}
+.color{
+    color: chartreuse;
+}
+
+/* taske2 */
+.p1{
+    font-size: 18px;
+}
+.p2{
+    color: gray;
+    font-size: 30px;
+}
+.p3{
+    color: navy;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p4{
+    color: purple;
+    font-size: 25px;
+    font-style: italic;
+    font-family: cursive;
+}
+/* taske3 */
+.pp1{
+    text-align: center;
+    text-decoration: underline;
+}
+.pp3{
+    text-transform: lowercase;
+}
+.h3{
+    text-transform: uppercase;
+}
+.pp5{
+    text-decoration: overline;
+}
+.pp6{
+    text-transform: capitalize;
+}
+.pp7{
+    text-decoration: line-through;
+}
+/* taske4 */
+.p1p{
+    background-color:rgb(38, 49, 61);
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
+#h22{
+    color: red;
+    text-decoration: underline;
+}
+
+.p4p{
+    background-color:rgb(38, 49, 61);
+    height: 60px;
+    text-align: center;
+    color: azure;
+    padding-top: 20px;
+}
+.task{
+    background-color: rgb(208, 219, 223);
+}
+.bold{
+    text-decoration: line-through;
+}
+.co{
+    color: red;
+}
+/* taske5 */
+.main1-background {
+    background-image: url(img/img19.jpeg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 140;
+    height: 260px;
+    }
+.css{
+    color: red;
+    text-decoration: underline;
+}
+#css1{
+    text-align: center;
+}
+#style{
+    text-align: center;
+}
+/* task6 */
+.main-background{
+ background-image: url(img/img.11.jpeg);
+ background-repeat: repeat-y;
+}
+/* taske7 */
+.text{
+    background-image: url(img/img1.jpeg);
+    background-repeat: repeat-x;
+}
+.text1{
+    color: red;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+.bold1{
+    color: rgba(0, 139, 139, 0.866);
+    text-decoration: underline;
+    font-family: bold;
+}
+.text3{
+    background-image: url(img/img2.jpeg);
+    background-repeat: repeat-x;
+    height: 900px;
+}
+/* taske8 */
+.seft{
+    color: red;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+.mss{
+    color:#1affff ;
+}
+.yy{
+    background-image: url(img/img00.jpeg),url(img/img55.jpeg);
+    background-size: 50%,50%;
+    background-position:left,right;
+    background-repeat: no-repeat,no-repeat;
+}
+/* taske9 */
+.main-background1{
+    background-image: linear-gradient(to right, #a86aa4 50%, #cc6b8e 62%, #f3a469 87%, #f7c978 100%);
+    height: 200px;
+    text-align: center;
+     padding-top: 90px;
+}
+/* taske10 */
+.ltem1{
+    background-color:#00B7EB ;
+    height: 50px;
+}
+.ltem3{
+    background-color:#00B7EB ; 
+    height: 50px; 
+}
+.ltem5{
+    background-color: hotpink;
+    height: 50px; 
+}
+.ltem7{
+    background-color:darkorange;
+    height: 50px;
+}
+.ltem9{
+    background-color:darkorange;
+    height: 50px; 
+}
+/* taske11 */
+.form1{
+    border: solid 6px black;
+    width: 250px;
+    height: 300px;
+    margin: 0 auto;
+    width: 200px;
+    background-color: #ffe0b3;
+    border: 7; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.p44{
+    background-color:#ff8080 ;
+    text-align: center;
+    color: aliceblue;
+    height: 30px;
+    padding-top: 10px;
+    font-family: cursive;
+}
+.ww1{
+    width: 100%;
+}
+.ww2{
+    width: 100%;
+}
+.ww3{
+    width: 100%;
+}
+.ww4{
+    width: 100%;
+}
+.WW{
+  background-color: yellow;
+  width: 100%;
+}
+/* taske12 */
+.tr1{
+    background-color: #ffffb3;
+    color: red;
+}
+.tr{
+    background-color:#00ccff ;
+}
+.tr2{
+    background-color:#00ccff ;
+    text-align: center;
+}
+/* taske13 */
+.gg{
+    height: 700;
+    background-image:url(img/ppp.jpeg), url(img/WhatsApp\ Image\ 2024-12-12\ at\ 3.59.05\ AM.jpeg);
+    background-repeat:repeat-y,repeat-x;
+    background-size: contain;
+}
+
+/* taske14 */
+.body{
+    background-color:beige ;
+}
+#h1{
+    color: red;
+}
+.blue {
+    background-color:#00ffff ;
+}
+.red1{
+    background-color:red;
+}
+.purple{
+    background-color: #cc00cc;
+}
+
+
